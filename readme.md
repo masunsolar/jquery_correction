@@ -1,8 +1,5 @@
 ### Exercício Módulo 10 - Plugins jQuery
 
-## Dicas
+Coreeções ja aplicadas e funcionando
 
-- O carousel slick utiliza a ID do campo para atribuir funções.
-- A semântica de escrita do HTML e jQuery utilizam o idioma inglês.
-- O jQuery plugin só executa depois que o jQuery carregar na página.# jquery_correction
-# jquery_correction
+Natan S. Rodrigues
